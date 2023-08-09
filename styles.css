@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:white;
+}
+header {
+    background: whitesmoke;
+    padding: 15px 0px;
+}
+header h1 {
+    width: 600px;
+    margin: 0px;
+    margin: auto;
+    
+    
+}
+section {
+    background: lightgray;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+.Div1 {
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+.P1 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.P2 {
+    font-size: 1rem;
+    color: aliceblue;
+}
+.Div3 {
+    padding: 15px;
+    margin: 0;
+}
+.p {
+    padding: 0;
+    margin: 0;
+}
+.Div3 p a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
